@@ -9,7 +9,7 @@
 * Google Cloud Platform
 * Jenkins
 * Docker
-* Kubernete
+* Kubernetes
 * S.O.L.I.D
 * C#
 * Angular
