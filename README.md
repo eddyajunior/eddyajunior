@@ -18,6 +18,7 @@
 * MS-SQL
 * MySQL
 * ElasticSearch
+* MSTest
 
 ### Redes Sociais
 - <a href="https://linkedin.com/in/edsonamaral/" target="_blank">Linkedin</a>
