@@ -2,7 +2,7 @@
 
 > Desenvolvedor de software
 
-### Atualmente trabalhando na empresa
+### Onde estou trabalhando atualmente
 - <a href="http://www.dotz.com.br/" target="_blank">Dotz</a>
 
 ### Com o que estou trabalhando
