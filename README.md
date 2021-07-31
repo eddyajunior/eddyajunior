@@ -1,9 +1,5 @@
-# Edson Amaral Junior 🇧🇷
-
-> Tech Lead
-
-### Onde estou trabalhando atualmente
-🏢 <a href="http://www.dotz.com.br/" target="_blank">Dotz Inc.</a>
+# Edson Amaral Junior
+> Tech Lead na 🏢 <a href="http://www.dotz.com.br/" target="_blank">Dotz Inc.</a>
 
 ### Com o que estou trabalhando
 * Google Cloud Platform
