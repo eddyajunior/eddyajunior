@@ -1,4 +1,5 @@
-# Edson Amaral Junior 🧑‍💻
+# Edson Amaral Junior 
+🧑‍💻
 
 > 🏢 Tech Lead na <a href="http://www.dotz.com.br/" target="_blank">Dotz Inc.</a>
 
