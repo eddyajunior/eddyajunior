@@ -1,10 +1,9 @@
 # Edson Amaral Junior 
-🧑‍💻
 
 > 🏢 Tech Lead na <a href="http://www.dotz.com.br/" target="_blank">Dotz Inc.</a>
 
 ### Com o que estou trabalhando
-* Google Cloud Platform
+* GCP (Google Cloud Platform)
 * Jenkins
 * Docker
 * Kubernetes
@@ -23,6 +22,7 @@
 * PubSub
 * Data Store
 * Redis
+* New Relic
 
 ### Redes Sociais
 - <a href="https://linkedin.com/in/edsonamaral/" target="_blank">Linkedin</a>
