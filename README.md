@@ -1,4 +1,5 @@
 # Edson Amaral Junior
+🇧🇷
 
 > Tech Lead
 
