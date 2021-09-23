@@ -3,7 +3,7 @@
 
 # Edson Amaral Junior 
 
-> 🏢 Software Engineering Specialist na [Via](https://www.via.com.br/) _08/2021 - ???_
+> 🏢 Software Engineering Specialist na [Via](https://www.via.com.br/) | _08/2021 - ???_
 
 ## Com o que estou trabalhando?
 - [Github Actions](https://github.com/features/actions) 
@@ -14,7 +14,7 @@
 
 <br>
 
-> 🏢 Tech Lead na [Dotz](https://www.dotz.com.br/) _03/2029 - 08/2021_
+> 🏢 Tech Lead na [Dotz](https://www.dotz.com.br/) | _03/2029 - 08/2021_
 
 #### Com o que trabalhava
 * GCP (Google Cloud Platform)
