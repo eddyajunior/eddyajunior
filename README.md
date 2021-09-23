@@ -1,8 +1,21 @@
+![Badge](https://img.shields.io/github/last-commit/eddyajunior/eddyajunior?style=flat-square)
+![Badge](https://img.shields.io/github/commit-activity/y/eddyajunior/eddyajunior?style=flat-square)
+
 # Edson Amaral Junior 
 
-> 🏢 Tech Lead na <a href="http://www.dotz.com.br/" target="_blank">Dotz Inc.</a>
+> 🏢 Software Engineering Specialist na [Via](https://www.via.com.br/)
 
-### Com o que estou trabalhando
+
+## Com o que estou trabalhando?
+- [Github Actions](https://github.com/features/actions) 
+- [SonarCloud](https://sonarcloud.io/?gads_campaign=South-America-SonarClouds&gads_ad_group=SonarCloud&gads_keyword=sonarcloud&gclid=EAIaIQobChMI7titmtmV8wIVjIKRCh2z8wsdEAAYASAAEgKLDvD_BwE)
+- [.NET 5](https://dotnet.microsoft.com/download/dotnet/5.0)
+- Web API
+- DDD
+
+### 🏢 Tech Lead na [Dotz](http://www.dotz.com.br/) (03/2019 - 08/2021)
+
+#### Com o que trabalhava
 * GCP (Google Cloud Platform)
 * Jenkins
 * Docker
@@ -24,7 +37,5 @@
 * Redis
 * New Relic
 
-### Redes Sociais
+## Redes Sociais
 - <a href="https://linkedin.com/in/edsonamaral/" target="_blank">Linkedin</a>
-
-[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]
