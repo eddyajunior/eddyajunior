@@ -13,6 +13,7 @@
 - Web API
 - DDD
 
+<br><br>
 > 🏢 Tech Lead na [Dotz](http://www.dotz.com.br/) (03/2019 - 08/2021)
 
 #### Com o que trabalhava
