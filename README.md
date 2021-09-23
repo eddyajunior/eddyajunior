@@ -13,7 +13,7 @@
 - Web API
 - DDD
 
-### 🏢 Tech Lead na [Dotz](http://www.dotz.com.br/) (03/2019 - 08/2021)
+> 🏢 Tech Lead na [Dotz](http://www.dotz.com.br/) (03/2019 - 08/2021)
 
 #### Com o que trabalhava
 * GCP (Google Cloud Platform)
