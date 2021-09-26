@@ -8,6 +8,7 @@
 ## Com o que estou trabalhando?
 - [Github Actions](https://github.com/features/actions) 
 - [SonarCloud](https://sonarcloud.io/?gads_campaign=South-America-SonarClouds&gads_ad_group=SonarCloud&gads_keyword=sonarcloud&gclid=EAIaIQobChMI7titmtmV8wIVjIKRCh2z8wsdEAAYASAAEgKLDvD_BwE)
+- [Azure Functions](https://azure.microsoft.com/pt-br/services/functions/)
 - [.NET 5](https://dotnet.microsoft.com/download/dotnet/5.0)
 - Web API
 - DDD
