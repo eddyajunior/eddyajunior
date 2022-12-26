@@ -103,4 +103,3 @@
 [![Badge](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
 [![Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
 [![Badge](https://img.shields.io/badge/iFood-EA1D2C?style=for-the-badge&logo=ifood&logoColor=white)
-[![Badge]()
