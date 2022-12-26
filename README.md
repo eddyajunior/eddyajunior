@@ -2,16 +2,25 @@
 ![Badge](https://img.shields.io/github/commit-activity/y/eddyajunior/eddyajunior?style=flat-square)
 
 # Edson Amaral Junior 
+[![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edsonamaral/)
+![Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddyajunior&show_icons=true&theme=tokyonight)](https://github.com/eddyajunior/github-readme-stats)
+
+<br>
 
 > 🏢 Software Engineering Specialist na [Via](https://www.via.com.br/) | _08/2021 - ???_
 
 ## Com o que estou trabalhando?
-- [Github Actions](https://github.com/features/actions) 
-- [SonarCloud](https://sonarcloud.io/?gads_campaign=South-America-SonarClouds&gads_ad_group=SonarCloud&gads_keyword=sonarcloud&gclid=EAIaIQobChMI7titmtmV8wIVjIKRCh2z8wsdEAAYASAAEgKLDvD_BwE)
-- [Azure Functions](https://azure.microsoft.com/pt-br/services/functions/)
-- [.NET 5](https://dotnet.microsoft.com/download/dotnet/5.0)
-- Web API
-- DDD
+* Gestão de Equipes
+* [Github Actions](https://github.com/features/actions) 
+* [SonarCloud](https://sonarcloud.io/?gads_campaign=South-America-SonarClouds&gads_ad_group=SonarCloud&gads_keyword=sonarcloud&gclid=EAIaIQobChMI7titmtmV8wIVjIKRCh2z8wsdEAAYASAAEgKLDvD_BwE)
+* [Azure Functions](https://azure.microsoft.com/pt-br/services/functions/)
+* [.NET 5](https://dotnet.microsoft.com/download/dotnet/5.0)
+* Web API
+* SOLID
+* DDD
 
 <br>
 
@@ -22,7 +31,7 @@
 * Jenkins
 * Docker
 * Kubernetes
-* S.O.L.I.D
+* SOLID
 * .NET Core
 * Angular
 * TypeScript
