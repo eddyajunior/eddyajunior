@@ -27,6 +27,7 @@
 
 <br>
 
+![Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=eddyajunior&theme=blue-green)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddyajunior&show_icons=true&theme=tokyonight)](https://github.com/eddyajunior/github-readme-stats)
 
 <br>
