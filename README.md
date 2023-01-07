@@ -25,8 +25,8 @@
 
 <br>
 
-![Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=eddyajunior&theme=blue-green)<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddyajunior&show_icons=true&theme=tokyonight)](https://github.com/eddyajunior/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddyajunior&show_icons=true&theme=tokyonight&layout=compact&card_width=400)](https://github.com/eddyajunior/github-readme-stats)  <br />
+![Badge](https://github-readme-stats.vercel.app/api/top-langs/?username=eddyajunior&theme=blue-green&card_width=400) 
 
 <br>
 
