@@ -30,7 +30,7 @@
 
 <br>
 
-> 🏢 Software Engineering Specialist na [Via](https://www.via.com.br/) | _08/2021 - ???_
+> 🏢 Software Engineering Leader na [Via](https://www.via.com.br/) | _08/2021 - ???_
 
 ## Com o que estou trabalhando?
 * Gestão de Equipes
