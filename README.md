@@ -53,7 +53,7 @@
 
 <br>
 
-> 🏢 Tech Lead na [Dotz](https://www.dotz.com.br/) | _03/2029 - 08/2021_
+> 🏢 Tech Lead na [Dotz](https://www.dotz.com.br/) | _03/2019 - 08/2021_
 
 #### Com o que trabalhava
 * GCP (Google Cloud Platform)
