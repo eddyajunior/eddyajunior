@@ -30,11 +30,12 @@
 
 <br>
 
-# O que estou estudando?
+## O que estou estudando?
 * Liderança de Times de Alto Desempenho
 * ReactJS
 * NodeJS
 
+<br>
 
 # Experiência Profissional
 
