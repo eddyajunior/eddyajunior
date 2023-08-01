@@ -30,6 +30,14 @@
 
 <br>
 
+# O que estou estudando?
+* Liderança de Times de Alto Desempenho
+* ReactJS
+* NodeJS
+
+
+# Experiência Profissional
+
 > 🏢 Software Engineering Leader na [Via](https://www.via.com.br/) | _08/2021 - ???_
 
 ## Com o que estou trabalhando?
