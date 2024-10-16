@@ -31,17 +31,33 @@
 <br>
 
 ## O que estou estudando?
-* Liderança de Times de Alto Desempenho
-* ReactJS
-* NodeJS
+* Aulas Particulares de Espanhol - [Professor Carlos](https://www.linkedin.com/in/aprender-espanol-com-carlos/)
+* Spanish With Vicente - [Podcast](https://www.spanishwithvicente.com/)
 
 <br>
 
 # Experiência Profissional
 
-> 🏢 Software Engineering Leader na [Via](https://www.via.com.br/) | _08/2021 - ???_
+> 🏢 Engineering Leader na [F1RST Digital Service | Santander Brasil](https://www.f1rst.com.br/first/#/) | _11/2023 - Atual_
 
 ## Com o que estou trabalhando?
+
+* Coordenação do time responsável pela migração de um projeto de alta plataforma para a nuvem.
+* Responsável pela equipe multifuncional composta por colaboradores de diversas senioridades.
+* Gestão orçamentaria do time e projetos
+* Gerenciamento de entregas de alta complexidade
+* Participação nas decisões de negócio em conjunto com os stakeholders
+* Participação efetiva na contratação e seleção de novos profissionais
+* Desenvolvimento profissional através do 1:1
+* Feedbacks periódicos e plano de carreira dos profissionais
+* Indicadores de produtividade, entregas, ROI
+* Utilização do framework Scrum e Kanban
+
+<br>
+
+> 🏢 Software Engineering Leader na [Via](https://www.via.com.br/) | _08/2021 - 11/2023_
+
+#### Com o que trabalhava
 * Gestão de Equipes
 * [Github Actions](https://github.com/features/actions) 
 * [SonarCloud](https://sonarcloud.io/?gads_campaign=South-America-SonarClouds&gads_ad_group=SonarCloud&gads_keyword=sonarcloud&gclid=EAIaIQobChMI7titmtmV8wIVjIKRCh2z8wsdEAAYASAAEgKLDvD_BwE)
